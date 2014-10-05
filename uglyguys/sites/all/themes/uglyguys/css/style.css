@@ -1,0 +1,50 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+.navbar-default{
+background: #fa592b; /* Old browsers */
+background: -moz-linear-gradient(top, #fa592b 0%, #fc6236 26%, #f54b24 51%, #f34620 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fa592b), color-stop(26%,#fc6236), color-stop(51%,#f54b24), color-stop(100%,#f34620)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #fa592b 0%,#fc6236 26%,#f54b24 51%,#f34620 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #fa592b 0%,#fc6236 26%,#f54b24 51%,#f34620 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #fa592b 0%,#fc6236 26%,#f54b24 51%,#f34620 100%); /* IE10+ */
+background: linear-gradient(to bottom, #fa592b 0%,#fc6236 26%,#f54b24 51%,#f34620 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fa592b', endColorstr='#f34620',GradientType=0 ); /* IE6-9 */
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #ffffff;
+}
+.navbar-nav a.dropdown-toggle
+{
+background:yellow;
+}
+
+
+
+.navbar>.container .navbar-brand {
+margin-left: -15px;
+font-family: monospace;
+font-weight: bold;
+font-size: 30px;
+margin-top: 8px;
+color: white;
+}
+
+.site_slogan
+{
+	
+margin-left: 16em;
+margin-top: 22px;
+font-family: initial;
+font-weight: 700;
+
+}
+
+.lead {
+font-size: 15px;
+color:white;
+}
+
+
